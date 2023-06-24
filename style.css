@@ -7,3 +7,9 @@ body
  background-color: black; /* Le fond de la page sera noir */
  color: white; /* Le texte de la page sera blanc */
 }
+
+h2
+{
+color:green;
+
+}
